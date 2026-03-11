@@ -1,0 +1,12 @@
+title: 내 아방가르드 블로그  
+email:   youhyeonmin1222@kaywon.ac.kr
+description: >- 
+  잡다구리한거 다올림.
+baseurl: "/lil_avanggardyu" 
+url: "https://avangard-idiot.github.io"
+
+
+markdown: kramdown
+theme: minima 
+plugins:
+  - jekyll-feed
